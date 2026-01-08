@@ -122,7 +122,6 @@
   color: #627382;
 }
 .card {
-
   width: 320px;
   height: 220px;
   background-color: #fff;
@@ -158,4 +157,50 @@
   display: flex;
   gap: 10px;
   margin-top: 44px;
+}
+
+/*  Brain Section */
+.brain-img {
+  width: 500px;
+  height: 500px;
+}
+.brain-right h5 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #469165;
+}
+.brain-right h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #001931;
+    margin-top: 16px;
+}
+.brain-right p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #627382;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 30px;
+}
+
+.brain-list{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.brain-list p{
+    font-size: 16px;
+    font-weight: 600;
+    color: #001931;
+    margin: 0;
+    line-height: 28px;
+   
+}
+.brain-flex{
+    display: flex;
+    gap: 40px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    align-items: center;
 }
