@@ -9,8 +9,8 @@
   font-optical-sizing: auto;
 }
 .margin {
-  margin-left: 120px;
-  margin-right: 120px;
+  margin-left: 110px;
+  margin-right: 110px;
 }
 /* Nav bar section */
 .nav-list ul li {
@@ -203,4 +203,35 @@
     margin-top: 120px;
     margin-bottom: 120px;
     align-items: center;
+}
+
+/* Ready Section */
+.ready-div{
+  text-align: center;
+  /* border: 1px solid tomato; */
+  background-color: #F7F6F2;
+  border-radius: 12px;
+}
+.ready-section{
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+.ready-div h1{
+  font-size: 40px;
+  font-weight: bold;
+  color: #001931;
+  margin-bottom: 16px;
+  padding-top: 80px;
+}
+.ready-div p{
+  font-size: 16px;
+  font-weight: 500;
+  color: #627382;
+}
+.btn-access{
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+.ready-des{
+  padding-bottom: 80px;
 }
