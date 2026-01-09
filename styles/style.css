@@ -235,3 +235,36 @@
 .ready-des{
   padding-bottom: 80px;
 }
+
+/* Footer section */
+footer{
+  background-color: #000000;
+}
+.footer-flex{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 120px;
+}
+.footer-des{
+  font-size: 16px;
+  font-weight: 500;
+  color: #FAFAFA;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 80px;
+}
+.footer-head{
+  font-size: 20px;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+.footer-icon{
+  display: flex;
+  gap: 22px;
+  padding-top: 10px;
+}
+.footer-icon i{
+ color: #FFFFFF;
+ 
+}
